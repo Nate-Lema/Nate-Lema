@@ -142,14 +142,9 @@
 </p>
 
 ### Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaellema&show_icons=true&locale=en&layout=compact&theme=radical" alt="natnaellema" />
-</p>
 
 ### Natnael Lema's GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnaellema&show_icons=true&locale=en&theme=radical" alt="natnaellema" />
-</p>
+
 
 <p align="center">
   <i>"Life is like coding, it all starts with an idea and endless possibilities." - Natnael Lema</i>
