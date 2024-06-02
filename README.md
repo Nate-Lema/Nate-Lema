@@ -23,7 +23,7 @@
   <a href="https://twitter.com/your_twitter_handle" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Natnael Lema Twitter" height="30" width="40" />
   </a>
-  <a href="https://github.com/natnaellema" target="_blank">
+  <a href="https://github.com/Nate-Lema" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Natnael Lema GitHub" height="30" width="40" />
   </a>
 </p>
