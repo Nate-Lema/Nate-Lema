@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=natnaellema&label=Profile%20views&color=0e75b6&style=flat-square" alt="natnaellema" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natnaellema&show_icons=true&theme=radical" alt="Natnael's GitHub stats" />
-</p>
-
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
 ### About Me
