@@ -11,10 +11,6 @@
 
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaellema&theme=radical" alt="natnaellema" />
-</p>
-
 ### About Me
 - 🔭 I work with **JavaScript, TypeScript, and Java**
 - 🌱 Currently exploring **Angular and NestJS**
