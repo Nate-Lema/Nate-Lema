@@ -7,7 +7,7 @@
 
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
-### About Me
+<h2 align="center">About Me👋</h2>
 <p align="center">
 - 🔭 I work with **JavaScript, TypeScript, and Java**<br>
 - 🌱 Currently exploring **Angular and NestJS**<br>
