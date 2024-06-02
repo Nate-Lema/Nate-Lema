@@ -13,7 +13,7 @@
 * 🔭 I work with **JavaScript, TypeScript, and Java**<br>
 * 🌱 Currently exploring **Angular and NestJS**<br>
 * 👨‍💻 Visit my [Personal Website](https://thomasmechessa.live/)<br>
-* 📫 Reach out to me at (natnael.b.lema@gmail.com)<br>
+* 📫 Reach out to me at [] (natnael.b.lema@gmail.com)<br>
 </p>
 </p>
 
