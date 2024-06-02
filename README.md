@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas Mechessa</h1>
+<h1 align="center">Hi 👋, I'm Natnael Lema</h1>
 <h3 align="center">A dedicated, adaptable and skilled Software Engineer</h3>
 
 <h3>It all started with a <b>print("Hello World🌎")</b></h3>
