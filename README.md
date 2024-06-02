@@ -9,7 +9,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-* 🔭 I work with <h4>JavaScript, TypeScript, and Java </h4><br>
+* 🔭 I work with **JavaScript**, **TypeScript**, and **Java** <br>
 * 🌱 Currently exploring **Angular and NestJS**<br>
 * 👨‍💻 Visit my [Personal Website](https://natnaellema.live/)<br>
 * 📫 Reach out to me at <a href="mailto:natnael.b.lema@gmail.com">natnael.b.lema@gmail.com</a><br>
