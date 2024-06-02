@@ -41,6 +41,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
   </a>
 </p>
+
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
@@ -57,6 +58,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+</p>
+
+<p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
@@ -75,6 +79,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
@@ -108,6 +115,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+</p>
+
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -131,9 +141,16 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaellema&show_icons=true&locale=en&layout=compact" alt="natnaellema" /></p>
+### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaellema&show_icons=true&locale=en&layout=compact&theme=radical" alt="natnaellema" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaellema&show_icons=true&locale=en" alt="natnaellema" /></p>
+### Natnael Lema's GitHub Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnaellema&show_icons=true&locale=en&theme=radical" alt="natnaellema" />
+</p>
+
 <p align="center">
   <i>"Life is like coding, it all starts with an idea and endless possibilities." - Natnael Lema</i>
 </p>
