@@ -7,15 +7,17 @@
 
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
-<h2 align="center">About Me👋</h2>
+<h3 align="center">About Me</h3>
 <p align="center">
-- 🔭 I work with **JavaScript, TypeScript, and Java**<br>
-- 🌱 Currently exploring **Angular and NestJS**<br>
-- 👨‍💻 Visit my [Personal Website](https://thomasmechessa.live/)<br>
-- 📫 Reach out to me at **natnael.b.lema@gmail.com**<br>
+<p align="center">
+* 🔭 I work with **JavaScript, TypeScript, and Java**<br>
+* 🌱 Currently exploring **Angular and NestJS**<br>
+* 👨‍💻 Visit my [Personal Website](https://thomasmechessa.live/)<br>
+* 📫 Reach out to me at **natnael.b.lema@gmail.com**<br>
+</p>
 </p>
 
-### Connect with Me
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/natnael-lema/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natnael Lema LinkedIn" height="30" width="40" />
@@ -28,7 +30,8 @@
   </a>
 </p>
 
-### My Tech Stack
+<h3 align="center">My Tech Stack</h3>
+
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 0 10px;"/>
