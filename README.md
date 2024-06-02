@@ -9,13 +9,18 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-<p align="center">
 * 🔭 I work with **JavaScript, TypeScript, and Java**<br>
 * 🌱 Currently exploring **Angular and NestJS**<br>
 * 👨‍💻 Visit my [Personal Website](https://thomasmechessa.live/)<br>
 * 📫 Reach out to me at [] (natnael.b.lema@gmail.com)<br>
 </p>
-</p>
+- 🔭 I work on anything **JavaScript, TypeScript and Java**
+
+- 🌱 I’m currently learning **Angular and Nest**
+
+- 👨‍💻 View my Personal Website at [https://thomasmechessa.live/](https://thomasmechessa.live/)
+
+- 📫 How to reach me **thomas.mechessa.2@gmail.com**
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
