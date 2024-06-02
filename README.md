@@ -9,10 +9,10 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-* 🔭 I work with **JavaScript**, **TypeScript**, and **Java** <br>
-* 🌱 Currently exploring **Angular and NestJS**<br>
-* 👨‍💻 Visit my [Personal Website](https://natnaellema.live/)<br>
-* 📫 Reach out to me at <a href="mailto:natnael.b.lema@gmail.com">natnael.b.lema@gmail.com</a><br>
+* 🔭 I work with <strong>JavaScript</strong>, <strong>TypeScript</strong>, and <strong>Java</strong> <br>
+* 🌱 Currently exploring <strong>Angular</strong> and <strong>NestJS</strong> <br>
+* 👨‍💻 Visit my <a href="https://natnaellema.live/" target="_blank">Personal Website</a> <br>
+* 📫 Reach out to me at <a href="mailto:natnael.b.lema@gmail.com">natnael.b.lema@gmail.com</a> <br>
 </p>
 
 <h3 align="center">Connect with Me</h3>
