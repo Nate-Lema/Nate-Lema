@@ -7,10 +7,6 @@
 
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaellema&theme=radical" alt="natnaellema" />
-</p>
-
 ### About Me
 - 🔭 I work with **JavaScript, TypeScript, and Java**
 - 🌱 Currently exploring **Angular and NestJS**
@@ -28,30 +24,6 @@
   <a href="https://github.com/natnaellema" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Natnael Lema GitHub" height="30" width="40" />
   </a>
-</p>
-
-### My Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> 
-</p>
-
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=natnaellema&theme=radical&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</p>
-
-### Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaellema&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif" alt="coding gif" width="400" />
 </p>
 
 <p align="center">
