@@ -8,12 +8,12 @@
 <h3 align="center">My Journey Began with a Simple <b>print("Hello World🌍")</b></h3>
 
 <h3 align="center">About Me</h3>
-<p align="center">
+<!-- <p align="center"> -->
 * 🔭 I work with **JavaScript, TypeScript, and Java**<br>
 * 🌱 Currently exploring **Angular and NestJS**<br>
 * 👨‍💻 Visit my [Personal Website](https://thomasmechessa.live/)<br>
 * 📫 Reach out to me at [Gmail] (natnael.b.lema@gmail.com)<br>
-</p>
+<!-- </p> -->
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
