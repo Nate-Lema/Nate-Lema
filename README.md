@@ -139,21 +139,9 @@
   </a>
 </p>
 
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=natnaellema&theme=radical&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaellema&show_icons=true&locale=en&layout=compact" alt="natnaellema" /></p>
 
-### Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaellema&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xIO33l7RlmLR4I/giphy.gif" alt="coding gif" width="400" />
-</p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaellema&show_icons=true&locale=en" alt="natnaellema" /></p>
 <p align="center">
   <i>"Life is like coding, it all starts with an idea and endless possibilities." - Natnael Lema</i>
 </p>
